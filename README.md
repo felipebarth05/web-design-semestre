@@ -16,10 +16,10 @@ Repositório acadêmico com as atividades, projetos e materiais desenvolvidos na
 
 | Projeto | Código | Site publicado |
 |---|---|---|
-| Versionamento (Maison Étoile) | [GitHub](https://github.com/Mauogs/Versionamento-Aula-02) | [Vercel](https://versionamento-aula-02.vercel.app/) |
+| Versionamento (Maison Étoile) | [GitHub](https://github.com/Mauogs/Versionamento-Aula-02) | - |
 | Fundamentos do HTML | [GitHub](https://github.com/Marcelojr2007/Html-Aula03) | - |
 | Sabor & Café | [GitHub](https://github.com/felipebarth05/webdesign07) | [Vercel](https://webdesign07.vercel.app/) |
-| PageRank e SEO | [GitHub](https://github.com/Mauogs/PageRank-Aula-05) | [Vercel](https://page-rank-aula-05.vercel.app/) |
+| PageRank e SEO | [GitHub](https://github.com/Mauogs/PageRank-Aula-05) | - |
 | Açoriana Conveniência (projeto final) | [GitHub](https://github.com/Mauogs/acoriana-site) | [Vercel](https://padariaacoriana.vercel.app/) |
 
 ## Tecnologias
